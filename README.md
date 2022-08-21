@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **cwmaginnis@gmail.com**
 
-- Find me on [LinkedIn](https://www.linkedin.com/in/cwmaginnis)
+- 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/cwmaginnis)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
