@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cwthedev&label=Profile%20views&color=0e75b6&style=flat" alt="cwthedev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cwthedev" alt="cwthedev" /></a> </p>
+#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cwthedev" alt="cwthedev" /></a> #</p>
 
 - 🔭 I’m currently working on [Kace-JamfSPOG](https://github.com/cwthedev/Kace-JamfSPOG)
 
